@@ -16,7 +16,7 @@ sebelum menggunakan pastikan telah menginstal Git dengan cara :
 3. jalan kan npm run dev untuk menjalankan project
 
 #Cara deploy ke vercel
-karena heroku sekarang sudah berbayar jadi saya deploy ke vecel
+karena heroku sekarang sudah berbayar jadi saya deploy ke vercel
 1. buat akun dulu caranya mudah seperti membuat akun pada umumnya atau bisa langsung menggunakan akun github anda
 2. pada halaman dashboard klik "new project"
 3. pilih repositori yang ingin di deploy dari akun github anda
