@@ -1,4 +1,4 @@
-import image from "../assets/asset/image.png";
+import image from "../assets/asset/Image.png";
 import star from "../assets/asset/star 4.png";
 import background_image from "../assets/asset/bg.png";
 import { Button } from "./Button";
