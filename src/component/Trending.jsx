@@ -1,6 +1,6 @@
 import React from "react";
 import { Card } from "./Card";
-import Data from "./data.json";
+import Data from "./Data.json";
 import { Button } from "./Button";
 
 export const Trending = () => {
