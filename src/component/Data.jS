@@ -3,7 +3,7 @@ export const Data =
 [
     {
         "id" : "1",
-        "image" :"src/assets/asset/PizzaPaperoni.png",
+        "image" :"/assets/PizzaPaperoni.png",
         "name": "Pizza paperoni",
         "category": "Pizza",
         "color" : "#E6F3F5",
