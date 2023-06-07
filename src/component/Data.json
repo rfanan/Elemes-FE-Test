@@ -1,0 +1,71 @@
+
+[
+    {
+        "id" : "1",
+        "image" :"src/assets/asset/PizzaPaperoni.png",
+        "name": "Pizza paperoni",
+        "category": "Pizza",
+        "color" : "#E6F3F5",
+        "icon" : "src/assets/asset/star 4.png"
+        
+    },
+    {
+        "id" : "2",
+        "image" :"src/assets/asset/Pizza meat.png",
+        "name": "Pizza paperoni",
+        "category": "Pizza",
+        "color" : "#E6F3F5",
+        "icon" : "src/assets/asset/star 3.png"
+        
+    },
+    {
+        "id" : "3",
+        "image" :"src/assets/asset/Doner kebab.png",
+        "name": "Doner Kebab",
+        "category": "kebab",
+        "color" : "#EAEEFA",
+        "icon" : "src/assets/asset/star 5.png"
+    },
+    {
+        "id" : "4",
+        "image" :"src/assets/asset/Salmon roll.png",
+        "name": "Salmon Roll",
+        "category": "Salmon",
+        "color" : "#F9EEF3",
+        "icon" : "src/assets/asset/star 4.png"
+    },
+    {
+        "id" : "5",
+        "image" :"src/assets/asset/Cupcake coco.png",
+        "name": "Cupcake Coco",
+        "category": "Cupcake",
+        "color" : "#F0FEEB",
+        "icon" : "src/assets/asset/star 4.png"
+    },
+    {
+        "id" : "6",
+        "image" :"src/assets/asset/Doughnut milk.png",
+        "name": "Doughnut Milk",
+        "category": "Doughnut",
+        "color" : "#F3F7D9",
+        "icon" : "src/assets/asset/star 5.png"
+    },
+    {
+        "id" : "7",
+        "image" :"src/assets/asset/Doughnut unicorn.png",
+        "name": "Doughnut Unicorn",
+        "category": "Doughnut",
+        "color" : "#F3F7D9",
+        "icon" : "src/assets/asset/star 4.png"
+    },
+    {
+        "id" : "8",
+        "image" :"src/assets/asset/Kathi kebab.png",
+        "name": "Kathi Kebab",
+        "category": "Kebab",
+        "color" : "#EAEEFA",
+        "icon" : "src/assets/asset/star 4.png"
+    }
+]
+
+
