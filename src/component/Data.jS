@@ -21,7 +21,7 @@ export const data =
     },
     {
         "id" : "3",
-        "image" :"src/assets/asset/DonerKebab.png",
+        "image" :"./src/assets/asset/DonerKebab.png",
         "name": "Doner Kebab",
         "category": "kebab",
         "color" : "#EAEEFA",
