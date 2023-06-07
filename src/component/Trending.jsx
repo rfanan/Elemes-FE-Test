@@ -1,6 +1,6 @@
 import React from "react";
 import { Card } from "./Card";
-import Data from "./Data.json";
+import { data } from "./Data.jS";
 import { Button } from "./Button";
 
 export const Trending = () => {
@@ -16,8 +16,8 @@ export const Trending = () => {
         <div
           className={`flex gap-2 flex-wrap justify-center md:justify-start items-center pt-10`}
         >
-          {Data &&
-            Data.map((data, id) => {
+          {data &&
+            data.map((data, id) => {
               return (
                 <div
                   className="rounded-lg"
